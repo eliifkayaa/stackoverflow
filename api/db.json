@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "7228",
+      "email": "elif@gmail.com",
+      "username": "elifkaya",
+      "password": "1234567890"
+    }
+  ],
+  "questions": [
+    {
+      "id": "8b2b",
+      "username": "elifkaya",
+      "question": "Test ",
+      "solutions": [
+        {
+          "username": "elifkaya",
+          "solution": "hnghmghm",
+          "plus": [],
+          "minus": [
+            "7228"
+          ]
+        },
+        {
+          "username": "elifkaya",
+          "solution": "gfbfgbgfng",
+          "plus": [],
+          "minus": [
+            "7228"
+          ]
+        },
+        {
+          "username": "elifkaya",
+          "solution": "uıloıoııııııışoı",
+          "plus": [
+            "7228"
+          ],
+          "minus": []
+        }
+      ]
+    },
+    {
+      "id": "876e",
+      "username": "elifkaya",
+      "question": "soru sordum",
+      "solutions": [
+        {
+          "username": "elifkaya",
+          "solution": "cevap verdim",
+          "plus": [],
+          "minus": []
+        }
+      ]
+    },
+    {
+      "id": "9927",
+      "username": "elifkaya",
+      "question": "dfgfdgdgf",
+      "solutions": [
+        {
+          "username": "elifkaya",
+          "solution": "yeni cevap",
+          "plus": [
+            "7228"
+          ],
+          "minus": []
+        }
+      ]
+    }
+  ]
+}
